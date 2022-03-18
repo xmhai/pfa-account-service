@@ -1,4 +1,4 @@
-package com.linh.pfa.account.service;
+package com.lin.pfa.account.service;
 
 public class AccountService {
 

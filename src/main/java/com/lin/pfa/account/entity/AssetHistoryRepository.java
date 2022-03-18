@@ -1,4 +1,4 @@
-package com.linh.pfa.account.entity;
+package com.lin.pfa.account.entity;
 
 import java.time.LocalDate;
 

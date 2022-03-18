@@ -1,4 +1,4 @@
-package com.linh.pfa.account.entity;
+package com.lin.pfa.account.entity;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
@@ -11,7 +11,7 @@ import org.hibernate.annotations.DynamicUpdate;
 import org.hibernate.annotations.SQLDelete;
 import org.hibernate.annotations.Where;
 
-import com.linh.common.base.BaseEntity;
+import com.lin.common.base.BaseEntity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

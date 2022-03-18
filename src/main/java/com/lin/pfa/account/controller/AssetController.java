@@ -1,4 +1,4 @@
-package com.linh.pfa.account.controller;
+package com.lin.pfa.account.controller;
 
 import java.util.List;
 import java.util.Map;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.linh.pfa.account.service.AssetService;
+import com.lin.pfa.account.service.AssetService;
 
 @RestController
 @RequestMapping("/assets")

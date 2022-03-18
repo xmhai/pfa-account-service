@@ -1,4 +1,4 @@
-package com.linh.pfa.account.controller;
+package com.lin.pfa.account.controller;
 
 import java.util.List;
 
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.linh.pfa.account.entity.Account;
-import com.linh.pfa.account.entity.AccountRepository;
+import com.lin.pfa.account.entity.Account;
+import com.lin.pfa.account.entity.AccountRepository;
 
 @RestController
 @RequestMapping("/accounts")

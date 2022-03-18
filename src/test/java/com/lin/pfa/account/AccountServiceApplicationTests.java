@@ -1,4 +1,4 @@
-package com.linh.pfa.account;
+package com.lin.pfa.account;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

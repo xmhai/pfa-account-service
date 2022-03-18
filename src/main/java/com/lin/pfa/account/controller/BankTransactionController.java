@@ -1,4 +1,4 @@
-package com.linh.pfa.account.controller;
+package com.lin.pfa.account.controller;
 
 import java.util.List;
 
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.linh.pfa.account.entity.BankTransaction;
-import com.linh.pfa.account.entity.BankTransactionRepository;
-import com.linh.pfa.account.service.BankTransactionService;
+import com.lin.pfa.account.entity.BankTransaction;
+import com.lin.pfa.account.entity.BankTransactionRepository;
+import com.lin.pfa.account.service.BankTransactionService;
 
 @RestController
 @RequestMapping("/bank/transactions")

@@ -1,4 +1,4 @@
-package com.linh.pfa.account.entity;
+package com.lin.pfa.account.entity;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
@@ -16,7 +16,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import com.linh.common.base.BaseEntity;
+import com.lin.common.base.BaseEntity;
 
 @Entity
 @SQLDelete(sql = "UPDATE bank_transaction SET is_deleted = 1 WHERE id = ?")
